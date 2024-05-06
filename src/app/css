@@ -1,0 +1,57 @@
+
+.w3-container {
+  padding: 16px;
+  background-color: #00796b; /* Teal */
+  color: white;
+}
+
+
+.w3-container h1 {
+  margin: 0;
+}
+
+
+.w3-row-padding {
+  padding: 0 16px;
+}
+
+
+.w3-card {
+  margin: 16px 0;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.w3-card img {
+  width: 100%;
+  border-radius: 4px 4px 0 0;
+}
+
+.w3-card h4 {
+  padding: 16px;
+  margin: 0;
+  background-color: #f5f5f5; /* Light grey */
+  border-radius: 0 0 4px 4px;
+}
+
+
+.w3-margin-top {
+  margin-top: 16px;
+}
+
+
+.w3-margin-bottom {
+  margin-bottom: 16px;
+}
+
+
+.w3-third {
+  width: 31.33%;
+  padding: 0 16px;
+  float: left;
+  box-sizing: border-box;
+}
+
+/* Limpar floats */
+.w3-clear {
+  clear: both;
+}
